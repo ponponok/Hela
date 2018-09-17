@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "406878722558",
+    "firebase_url": "https://healthy2-7a0b2.firebaseio.com",
+    "project_id": "healthy2-7a0b2",
+    "storage_bucket": "healthy2-7a0b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406878722558:android:02f1928a3a6cb753",
+        "android_client_info": {
+          "package_name": "com.pond59070017.healthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406878722558-tkg5hcu4ij4qd1sggmjh4jngb7nt4vfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pond59070017.healthy",
+            "certificate_hash": "f728814eea5cf5f4635be0a3b9371a9a573fd098"
+          }
+        },
+        {
+          "client_id": "406878722558-de7ij1tkbdvnkrtahphd6ds4p52bd2ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwkrdpRyNb3n62-4DUqbiMwxfnqj1MKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406878722558-de7ij1tkbdvnkrtahphd6ds4p52bd2ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/register_email"
+        android:drawableLeft="@drawable/ic_person"
+        android:hint="E-mail"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="50dp" />
+
+    <EditText
+        android:id="@+id/register_password"
+        android:drawableLeft="@drawable/ic_person"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="50dp" />
+    <EditText
+        android:id="@+id/register_repassword"
+        android:drawableLeft="@drawable/ic_person"
+        android:hint="Re-Password"
+        android:inputType="textPassword"
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="50dp" />
+    <Button
+        android:id="@+id/register_regisBtn"
+        android:hint="Register new account"
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="50dp" />
+
+</LinearLayout>
