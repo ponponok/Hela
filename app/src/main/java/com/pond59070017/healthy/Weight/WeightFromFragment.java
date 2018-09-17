@@ -59,7 +59,7 @@ public class WeightFromFragment extends Fragment {
                         .set(_date).addOnSuccessListener(new OnSuccessListener<Void>() {
                     @Override
                     public void onSuccess(Void aVoid) {
-
+ 
                     }
                 }).addOnFailureListener(new OnFailureListener() {
                     @Override
